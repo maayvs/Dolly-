@@ -30,8 +30,8 @@ ul, li {
     padding: 20px;
     width: 100%;
     bottom:0;
-    position:fixed;
     align-items: center;
+    position:fixed;
 }
 h3 {
     background-color: green;
